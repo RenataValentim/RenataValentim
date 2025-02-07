@@ -1,5 +1,5 @@
 # Hii! 👋 I'm Renata Valentim 🌻
- <img align="right" src="https://github.com/user-attachments/assets/ef107481-7368-4378-8f0f-e854f0fd60a7" height="230"> 
+ <img align="right" src="https://github.com/user-attachments/assets/dd41d5ef-338a-4c5b-89e2-31937f6b4f43" height="130"> 
 
 I'm a **Physics student** at the **Federal University of Uberlândia (UFU)** in Minas Gerais, Brazil, with a strong passion for technology and web development. I am exploring **full-stack development** while expanding my knowledge of programming languages and frameworks.
 
