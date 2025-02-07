@@ -1,5 +1,7 @@
 # Hii! 👋🙂 I'm Renata Valentim 🌻
 
+ <img align="right" src="https://github.com/user-attachments/assets/9fda9342-9c74-4788-bbb3-b3ab06daaa1f" height="240"> 
+
 I'm a **Physics student** at the **Federal University of Uberlândia (UFU)** in Minas Gerais, Brazil, with a strong passion for technology and web development. I am exploring **full-stack development** while expanding my knowledge of programming languages and frameworks.
 
 I'm currently diving deep into **JavaScript**, where I'm building dynamic web applications using front-end frameworks like **React** and working with **Node.js** for back-end development. In addition to that, I'm leveraging **Python** for **Computational Physics**, applying programming to solve complex physical problems.
@@ -31,8 +33,15 @@ I'm currently diving deep into **JavaScript**, where I'm building dynamic web ap
   </a>
 </div>
 
-Feel free to check out my repositories and get in touch if you want to collaborate on a project!
+##
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bcb6fcf1-a781-4aaf-ba33-84c761a7d762" alt="frog" width="200">
+  <p style="font-size: 10px;">"Peace begins with a smile." ✨☮️</p>
+</div>
 
 
 
-  
+
+
+
